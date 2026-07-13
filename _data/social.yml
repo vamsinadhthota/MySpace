@@ -262,18 +262,37 @@ mastodon:
   name: Mastodon
   icon: icon-mastodon
 researchgate:
-  name: ResearchGate
-  icon: icon-researchgate
-  prepend: "https://www.researchgate.net/profile/"
-google-scholar:
+ google-scholar:
   name: Google Scholar
-  icon: icon-google-scholar
+  icon: ai ai-google-scholar
   prepend: "https://scholar.google.com/citations?user="
+
 orcid:
   name: ORCID
-  icon: icon-orcid
+  icon: ai ai-orcid
   prepend: "https://orcid.org/"
+
+researchgate:
+  name: ResearchGate
+  icon: ai ai-researchgate
+  prepend: "https://www.researchgate.net/profile/"
+
+dblp:
+  name: DBLP
+  icon: ai ai-dblp
+  prepend: "https://dblp.org/pid/"
+
+arxiv:
+  name: arXiv
+  icon: ai ai-arxiv
+  prepend: "https://arxiv.org/a/"
+
+semantic-scholar:
+  name: Semantic Scholar
+  icon: ai ai-semantic-scholar
+  prepend: "https://www.semanticscholar.org/author/"
+
 mathscinet:
   name: MathSciNet
-  icon: icon-book
+  icon: ai ai-mathoverflow
   prepend: "https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid="
