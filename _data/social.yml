@@ -261,3 +261,19 @@ discord:
 mastodon:
   name: Mastodon
   icon: icon-mastodon
+researchgate:
+  name: ResearchGate
+  icon: icon-researchgate
+  prepend: "https://www.researchgate.net/profile/"
+google-scholar:
+  name: Google Scholar
+  icon: icon-google-scholar
+  prepend: "https://scholar.google.com/citations?user="
+orcid:
+  name: ORCID
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
+mathscinet:
+  name: MathSciNet
+  icon: icon-book
+  prepend: "https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid="
