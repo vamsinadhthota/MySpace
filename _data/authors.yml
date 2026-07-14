@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Vamsinadh><Thota>
-  email:             <vamsinadh@nitt.edu>
+  name:              Dr. Vamsinadh Thota
+  email:             vamsinadh@nitt.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -80,11 +80,11 @@ author1:
     # discord:         <invite-code>
     # mastodon:        https://<url>
     # x:               <username>
-  github: vamsinadhthota
-  google-scholar: wXCb-xoAAAAJ&hl
-  orcid: 0000-0002-3533-4962
-  researchgate: Vamsinadh-Thota
-  mathscinet: 1183691
+    # github: vamsinadhthota
+  google-scholar: https://scholar.google.com/citations?user=wXCb-xoAAAAJ&hl=en
+  orcid: https://orcid.org/0000-0002-3533-4962
+  researchgate: https://www.researchgate.net/profile/Vamsinadh-Thota
+  mathscinet: https://mathscinet.ams.org/mathscinet/author?authorId=1183691
 
 # Another author (optional)
 author2:
