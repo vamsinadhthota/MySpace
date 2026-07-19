@@ -14,6 +14,13 @@ sitemap: false
 ---
 
 # X Marks the Spot in Hydejack 9.2
+
+Dr. Vamsinadh Thota is an Assistant Professor in the Department of Mathematics at the National Institute of Technology, Tiruchirappalli (NITT).
+
+He received his Doctor of Philosophy (Ph.D.) in Mathematics from the Department of Mathematics and Statistics, Indian Institute of Technology Kanpur, during 2012–2017, under the supervision of Prof. P. Shunmugaraj. His doctoral dissertation was titled "Some Geometric and Approximation Theoretic Properties in Banach Spaces". He earned his Master of Science (M.Sc.) in Applied Mathematics from the Indian Institute of Technology Roorkee in 2012 and his Bachelor of Science (B.Sc.) in Mathematics from Acharya Nagarjuna University in 2009.
+
+His research interests lie in Functional Analysis, with a primary focus on the Geometry of Banach Spaces and Approximation Theory in Banach Spaces. His research includes geometric and structural properties of Banach spaces, best approximation, simultaneous approximation, norm-attaining operators, orthogonality in Banach spaces, smoothness and convexity properties of normed spaces, non-expansive mappings, and fixed point theory.
+
 ## New Social Media Icons
 
 Lots of things have changed in the world of social media since the last release. To bring Hydejack up to date, the default logo for Twitter has changed:
