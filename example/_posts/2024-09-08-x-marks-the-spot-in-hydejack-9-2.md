@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 sitemap: false
 ---
 
-# X Marks the Spot in Hydejack 9.2
+# X Marks the Spot in changed
 
 Dr. Vamsinadh Thota is an Assistant Professor in the Department of Mathematics at the National Institute of Technology, Tiruchirappalli (NITT).
 
